@@ -9,6 +9,7 @@ class Nakama < Formula
 
   def install
     system "go", "build", "-trimpath", "-mod=vendor"
+    bin.install "nakama"
   end
 
   test do
