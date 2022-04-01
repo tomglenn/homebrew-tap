@@ -1,5 +1,5 @@
 class Nakama < Formula
-  desc "Distributed server for social and realtime games and apps."
+  desc "Distributed server for social and realtime games and apps"
   homepage "https://heroiclabs.com"
   url "https://github.com/heroiclabs/nakama/archive/refs/tags/v3.11.0.tar.gz"
   sha256 "02b1378df6d135947741810383630a5c0370ea5c373c92dca1677c4ce887de66"
